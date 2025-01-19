@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/car-rental/static/css/main.23be031d.css",
+    "main.js": "/car-rental/static/js/main.d6e4b117.js",
+    "static/js/488.a6fde2ed.chunk.js": "/car-rental/static/js/488.a6fde2ed.chunk.js",
+    "static/media/bmw.png": "/car-rental/static/media/bmw.14b7f100b295a4d0dd79.png",
+    "static/media/rolls royce.png": "/car-rental/static/media/rolls royce.d5714024c182388811c6.png",
+    "static/media/bmw logo.png": "/car-rental/static/media/bmw logo.187eeaa5119639258ef9.png",
+    "static/media/mini cooper.png": "/car-rental/static/media/mini cooper.7315e22c0f2484b57025.png",
+    "static/media/lexus.webp": "/car-rental/static/media/lexus.d371f59f42ad171d1d5c.webp",
+    "static/media/bmw-car.png": "/car-rental/static/media/bmw-car.cee859c3cbbceb225942.png",
+    "static/media/volvo.png": "/car-rental/static/media/volvo.6cd5cdb235f522c59eba.png",
+    "static/media/benz logo.png": "/car-rental/static/media/benz logo.944ed0946f326114eca7.png",
+    "static/media/benz.png": "/car-rental/static/media/benz.ce3bd9e447e9bcf567ca.png",
+    "static/media/honda logo.png": "/car-rental/static/media/honda logo.600c5bf09bd515d0615d.png",
+    "static/media/bentley.png": "/car-rental/static/media/bentley.480d7d6826064e4ea59e.png",
+    "static/media/mercedes.png": "/car-rental/static/media/mercedes.f047c60217ad4fe9a2dd.png",
+    "static/media/audi.png": "/car-rental/static/media/audi.6362682c135eb2d5f90a.png",
+    "static/media/ford logo.png": "/car-rental/static/media/ford logo.6d4983a68795342e0395.png",
+    "static/media/nissan logo.webp": "/car-rental/static/media/nissan logo.2aa04ad01f2af6bd624e.webp",
+    "index.html": "/car-rental/index.html",
+    "main.23be031d.css.map": "/car-rental/static/css/main.23be031d.css.map",
+    "main.d6e4b117.js.map": "/car-rental/static/js/main.d6e4b117.js.map",
+    "488.a6fde2ed.chunk.js.map": "/car-rental/static/js/488.a6fde2ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23be031d.css",
+    "static/js/main.d6e4b117.js"
+  ]
+}
